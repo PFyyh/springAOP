@@ -13,8 +13,7 @@ public class PerformanceImpl implements Performance {
     @Override
     public int setPersonNum(int num) {
         ++num;
-        System.out.println("人数2："+num);
-
+        System.out.println("人数："+num);
         return num;
     }
 }
