@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aspectjrt">
+    <CLASSES>
+      <root url="jar://G:/YYH/袁一豪推荐/软件/专业领域软件/java类/Java工具包/jar包/aspectj-1.9.2/lib/aspectjrt.jar!/" />
+      <root url="jar://G:/YYH/袁一豪推荐/软件/专业领域软件/java类/Java工具包/jar包/aspectj-1.9.2/lib/aspectjweaver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
